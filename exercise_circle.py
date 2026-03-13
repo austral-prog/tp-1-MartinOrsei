@@ -1,3 +1,6 @@
+from math import pi
+
+
 def circle():
     """
     Ejercicio 6 - Geometría de Círculo
